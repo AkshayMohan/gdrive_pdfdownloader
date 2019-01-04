@@ -55,7 +55,7 @@ while($i -lt $numImages) {
 
         $webClient.DownloadFile($imageLink, "$saveLocat\$i.png")
         
-        $downloadCount++;
+        $downloadCount++
         Write-Progress -Activity "Download in Progress" -Status "$downloadCount/$numImages completed" -PercentComplete (($downloadCount / $numImages) * 100)
     } catch [System.Net.WebException] {
 
