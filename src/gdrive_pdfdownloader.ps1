@@ -12,11 +12,11 @@
 # Please consider reading the README file on the repository                      #
 # for usage details.                                                             #
 #                                                                                #
-# 	LICENSE:                                                                 #
-# 	                                                                         #
-# 	MIT License                                                              #
+# 	LICENSE:                                                                     #
+# 	                                                                             #
+# 	MIT License                                                                  #
 #                                                                                #
-# Copyright (c) 2019 Akshay Mohan                                                #
+# Copyright (c) 2019-2020 Akshay Mohan                                           #
 #                                                                                #
 # Permission is hereby granted, free of charge, to any person obtaining a copy   #
 # of this software and associated documentation files (the "Software"), to deal  #
